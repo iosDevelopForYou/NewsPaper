@@ -1,7 +1,8 @@
 # NewsPaper
 Educational Application - International news feed. 
 This application uses a get request from a news site and generates two tabular views for the selected categories - horizontal and vertical.   
-The application implements user authorization and registration using Google FireBase, as well as the ability to add favorite news to favorites.<br>  
+The application implements user authorization and registration using Google FireBase, as well as the ability to add favorite news to favorites and check out detail view screen of every news post that you choose.<br>  
 
-![1](https://github.com/iosDevelopForYou/SwiftMarathon7-NewsPaper/assets/118765521/d59b6086-99b6-4a24-9919-e77f52b5dc75)
-![2](https://github.com/iosDevelopForYou/SwiftMarathon7-NewsPaper/assets/118765521/d25019d6-cafc-4093-8e2d-619f4ab4575c)
+![1](https://github.com/iosDevelopForYou/SwiftMarathon7-NewsPaper/assets/118765521/05161837-f28b-43d2-8b52-c969183d1dc2)
+![2](https://github.com/iosDevelopForYou/SwiftMarathon7-NewsPaper/assets/118765521/6da3da81-e4a6-4ca7-aa78-c1e8f062c1ba)
+![3](https://github.com/iosDevelopForYou/SwiftMarathon7-NewsPaper/assets/118765521/6a1e2022-0766-47d5-8224-4b1026eb53d4)
