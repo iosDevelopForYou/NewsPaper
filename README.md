@@ -1,5 +1,4 @@
 # NewsPaper
-Educational Application - International news feed. 
 This application uses a get request from a news site and generates collection and table views for the selected categories - horizontal and vertical.   
 The application implements user authorization and registration using Google FireBase, as well as the ability to add favorite news to favorites and check out detail view screen of every news post that you choose.<br>  
 
